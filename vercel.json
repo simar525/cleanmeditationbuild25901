@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://clean-energy-world.agiled.app/$1"
+ }
+  ]
+}
